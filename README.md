@@ -1,11 +1,11 @@
 # Homebrew SwiftMac
 
-Homebrew tap for [SwiftMac](https://github.com/robertmeta/swiftmac), an Emacspeak speech server for macOS.
+Homebrew tap for [SwiftMac](https://github.com/intelligrit/swiftmac), an Emacspeak speech server for macOS.
 
 ## Installation
 
 ```bash
-brew tap robertmeta/swiftmac
+brew tap intelligrit/swiftmac
 brew install swiftmac
 ```
 
@@ -50,8 +50,8 @@ make update-brew
 
 This automatically updates the version, URL, and SHA256 checksum in the formula.
 
-See [Contributing.org](https://github.com/robertmeta/swiftmac/blob/main/Contributing.org) for detailed release process.
+See [Contributing.org](https://github.com/intelligrit/swiftmac/blob/main/Contributing.org) for detailed release process.
 
 ## More Information
 
-See the [SwiftMac repository](https://github.com/robertmeta/swiftmac) for full documentation.
+See the [SwiftMac repository](https://github.com/intelligrit/swiftmac) for full documentation.

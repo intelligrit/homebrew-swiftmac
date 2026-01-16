@@ -1,7 +1,7 @@
 class Swiftmac < Formula
   desc "Emacspeak speech server for macOS using native speech synthesis"
-  homepage "https://github.com/robertmeta/swiftmac"
-  url "https://github.com/robertmeta/swiftmac/releases/download/v4.3.6/swiftmac-4.3.6.tar.gz"
+  homepage "https://github.com/intelligrit/swiftmac"
+  url "https://github.com/intelligrit/swiftmac/releases/download/v4.3.6/swiftmac-4.3.6.tar.gz"
   sha256 "84c17893d504ae32e23043fa756e7574ac779b81171a6a28f31938afcd3982f9"
   version "4.3.6"
   license "MIT"
